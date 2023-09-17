@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Warrior.h"
 
+void Foo();
+
 int main()
 {
 	std::cout << "Aboba";
