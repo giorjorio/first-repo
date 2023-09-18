@@ -1,7 +1,13 @@
 #include <iostream>
 #include "Warrior.h"
 
+<<<<<<< HEAD
 void Foo();
+=======
+
+
+void test();
+>>>>>>> test
 
 int main()
 {
