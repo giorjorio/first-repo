@@ -5,7 +5,7 @@ void Foo();
 
 void test();
 
-int main()
+int MAINFUNC()
 {
 	std::cout << "Aboba";
 	int b = 5;
