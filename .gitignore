@@ -1,4 +1,8 @@
 # My first .gitignore
 
-Logs
+Logs/*
+!/Logs/NotIgnore
+!/Logs/NotIgnoreThis.docx
+/Logs/NotIgnore/*
+!/Logs/NotIgnore/DoNotIgnoreMe.xlsx
 *.exe
