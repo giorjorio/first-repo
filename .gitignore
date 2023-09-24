@@ -1,6 +1,7 @@
 # My first .gitignore
 
 Logs/*
+!/Logs/NoIgnoreFull
 !/Logs/NotIgnore
 !/Logs/NotIgnoreThis.docx
 /Logs/NotIgnore/*
